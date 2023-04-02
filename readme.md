@@ -1,7 +1,6 @@
 # django app 생성
 django-admin startproject myproject  
 
-
 # 도커 장고 앱 이미지 생성
 docker build -t myproject .   
 
